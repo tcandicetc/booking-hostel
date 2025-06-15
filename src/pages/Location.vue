@@ -17,8 +17,7 @@ function myMap() {
   var map = new google.maps.Map(document.getElementById('googleMap'), mapProp)
 }
 
-const src =
-  'https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap'
+const src = 'https://maps.googleapis.com/maps/api/js?key=<API key>&callback=myMap'
 </script>
 
 <template>
