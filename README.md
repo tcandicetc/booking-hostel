@@ -14,11 +14,11 @@ GitHub Page: https://tcandicetc.github.io/booking-hostel/
   - [ ]  關於我們
   - [ ]  地圖位置
   - [ ]  Footer
-- [ ]  依據區塊建立 Vue components 資料夾結構
+- [x]  依據區塊建立 Vue components 資料夾結構
 - [ ]  引入 Bootstrap 組件
-  - [ ] 圖片輪播
+  - [x] 圖片輪播
   - [ ] 日曆
-- [ ] 調整路由架構（Vue Router），讓網站支援多頁面（ex: /rooms、/about）
+- [x] 調整路由架構（Vue Router），讓網站支援多頁面（ex: /rooms、/about）
 
 ### 第二階段：資料抽離（避免寫死在 HTML）
 
